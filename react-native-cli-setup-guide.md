@@ -39,3 +39,12 @@ apply plugin: 'com.google.gms.google-services' // <- Add this line
 ```
 
 Source: [React Native Firebase](https://rnfirebase.io/)
+
+## Adding React Native Image Picker (react-native-image-crop-picker)
+### Installation
+```npm i react-native-image-crop-picker --save
+```
+### Configuration
+[See documentation](See documentation](https://www.npmjs.com/package/react-native-image-crop-picker)
+
+
