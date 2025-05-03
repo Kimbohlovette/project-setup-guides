@@ -45,6 +45,6 @@ Source: [React Native Firebase](https://rnfirebase.io/)
 ```npm i react-native-image-crop-picker --save
 ```
 ### Configuration
-[See documentation](See documentation](https://www.npmjs.com/package/react-native-image-crop-picker)
+[See documentation](https://www.npmjs.com/package/react-native-image-crop-picker)
 
 
